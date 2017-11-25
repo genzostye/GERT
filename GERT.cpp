@@ -1,6 +1,6 @@
 // GERT, Monte Carlo analysis
 // Author: Alex Battiston
-// Web: https://www.linkedin.com/in/battistonalex/
+// Web: www.linkedin.com/in/battistonalex/
 
 // If you want to run this code, you can just copy paste it in http://cpp.sh and click RUN.
 // If you want to change the structure of the model, change only the variables and parameters in delimited area of MODEL SETUP PHASE
