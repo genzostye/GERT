@@ -139,7 +139,6 @@ for (iteration monte_carlo_result:monte_carlo_results){
   
 // show histogram values
 std::cout << "GERT, Monte Carlo analysis: " << monte_carlo_runs << " iterations" << std::endl;
-
 sort (statistics.begin (), statistics.end (), sortByCount);
 for (int i = 0; i < statistics.size (); i++)
     std::cout << "Time: " << statistics[i].time << " - Cost: " << statistics[i].cost << " - Frequency: " << statistics[i].count << " - Probability - %" << (float) ((float) statistics[i].count * 100 /(float)monte_carlo_runs) <<std::endl;
