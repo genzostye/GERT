@@ -5,7 +5,7 @@
 // If you want to run this code, you can just copy paste it in http://cpp.sh and click RUN.
 // If you want to change the structure of the model, change only the variables and parameters in delimited area of MODEL SETUP PHASE
 
-// Do not evaluate the code, because I am already tell you that the quality of the code is extremely low! ;-)
+// Do not evaluate the code, because I am already telling you that the quality of the code is extremely low! ;-)
 
 /******************* DO NOT CHANGE THIS CODE, start *******************/ 
 #include <string>
