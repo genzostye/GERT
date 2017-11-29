@@ -1,6 +1,7 @@
 // GERT, Monte Carlo analysis
 // Author: Alex Battiston
 // Web: www.linkedin.com/in/battistonalex/
+// Article: https://www.linkedin.com/pulse/estimation-project-duration-waterfall-process-using-gert-battiston
 
 // If you want to run this code, you can just copy paste it in http://cpp.sh and click RUN.
 // If you want to change the structure of the model, change only the variables and parameters in the delimited area MODEL SETUP PHASE
